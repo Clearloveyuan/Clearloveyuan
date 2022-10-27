@@ -5,7 +5,7 @@
 - ⚡ Fun fact: Love music, sining, animation, sports and all good things in my life.
 
 <a href="https://a626709452.github.io/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=a626709452&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Clearloveyuan&count_private=true&show_icons=true" />
 </a>  
 
 <!--
